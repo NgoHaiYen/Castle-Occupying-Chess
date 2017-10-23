@@ -1,0 +1,16 @@
+Không liên quan như mà e mới lần đầu dùng cái này chả biết j đâu. ghi lại cái file này chú thích cho cái mớ hôn lộn kia
+1. Tất cả thuật toán xử lý e thực hiện trong GameManager, bên phía GamePanel sẽ là sử lý đồ họa chọ game, chịu trách nhiệm vẽ...
+2. ImageStore: nơi lưu trữ ảnh (thư viện)
+3.Chess: là đối tượng quân cờ, quản lý các thuộc tính cũng như làm 1 số chuyển đổi
+4. Ability: gợi ý nước di chuyển (khả năng di chuyển) của mỗi quân cơ.
+
+các cái còn lại là những thứ phụ liên kết để chạy chương trình
+
+Hiện tại game mới chỉ xét di chuyển, thay đổi vị trí, ăn quân.
+chưa xét thắng thua.....
+
+ai không hiểu chỗ nào thì hình như có thể chú thích code (thì phải) trực tiếp vào code.
+moi người nghiên cứu phát triển tiếp nhé. hiện tại có thể chơi 2 người được r, mỗi tội là phải tự kiểm tra thắng thua. ahhâh
+
+Cùng chung tay đem đến thành công nào. Thanks All
+Thân!!!!!!
